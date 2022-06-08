@@ -1,0 +1,84 @@
+
+ @import url('http://fonts.cdnfonts.com/css/ds-digital');
+                
+
+
+body{
+  background-color: rgb(137, 85, 188);
+  margin: auto;
+  
+}
+
+.MyDiv{
+    
+  display: flexbox;
+  text-shadow: 30px;
+  text-align: center;
+  margin-top: 200px;
+  font-family: 'DS-Digital', sans-serif;
+  font-size: xx-large;
+  color: rgb(68, 186, 68);
+  margin-bottom: 40px;
+
+}
+
+
+.Div-1{
+  display: flexbox;
+  text-shadow: 30px;
+  text-align: center;
+  margin-top: 200px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: xx-large;
+  color: rgb(233, 245, 233);
+  margin-bottom: 40px;
+
+}
+
+.inp1{
+    border-radius: 5px ;
+    width: 220px;
+    height: 20px;
+
+}
+
+.inp2{
+  border-radius: 5px ;
+  width: 220px;
+  height: 20px;
+
+}
+
+
+
+/* 
+h1{
+
+  font-size:50px ;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: beige;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 80px;
+  
+} */
+
+
+button{
+  
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 20px;
+  line-height: 24px;
+  outline: none;
+  cursor: pointer;
+   width: 200px;
+   height: 40px;
+   background-color: rgb(182, 142, 223);
+   color:rgb(241, 227, 226);
+  font-size: medium;
+  font-weight: 200; 
+  border-radius: 5px;
+  text-transform: uppercase;
+  /* text-shadow:4px ; */
+  
+  }
